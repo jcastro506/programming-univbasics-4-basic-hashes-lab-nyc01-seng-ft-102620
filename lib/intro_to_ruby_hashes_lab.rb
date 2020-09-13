@@ -19,6 +19,6 @@ end
 
 def id_hash_generator(number)
   smoke_hash = {
-    :id = number
+    :id => number
   }
 end
